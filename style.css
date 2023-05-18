@@ -1,0 +1,46 @@
+body{
+    padding-top: 2.5%;    
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    text-align: center;
+    width: fit-content;    
+    box-sizing: border-box;
+}
+h1{
+    font-family: 'Algerian',serif;
+    font-style: normal;
+    color:  #85262e;    
+}
+img{
+    border-style: solid;
+    border-width: 0.3rem;
+    transition-duration: 0.4s;
+}
+img:hover{
+    opacity: 0.6;
+}
+.info{
+    padding-left: 4.5%;
+    padding-right: 4.5%;
+    text-align: center;    
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: #C55f68;
+}
+.btn{
+    padding: 10px 30px;
+    font-size: 18px;
+    
+    color: black;   
+    border-color: #85262e;
+    border-radius: 0px 25px;
+    transition-duration: 0.4s;
+}
+.btn:hover{
+    
+    background-color:#85262e;
+    color: white;
+    border-color: #85262e;
+    
+}
